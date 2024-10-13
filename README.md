@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshay182004
+- 👋 Hi, I’m @Danny
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning engineering
 - 💞️ I’m looking to collaborate on ...
